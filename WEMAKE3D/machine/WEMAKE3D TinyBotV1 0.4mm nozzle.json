@@ -1,0 +1,23 @@
+{
+  "type": "machine",
+  "name": "WEMAKE3D TinyBotV1 0.4mm nozzle",
+  "inherits": "fdm_machine_tinybotv1_common",
+  "from": "system",
+  "setting_id": "GM001",
+  "instantition": "true",
+  "printer_model": "WEMAKE3D TinyBotV1",
+  "gcode_flavor": "marlin",
+  "nozzle_diameter": [
+    "0.4"
+  ],
+  "printer_variant": "0.4",
+  "max_layer_height": [
+    "0.32"
+  ],
+  "min_layer_height": [
+    "0.08"
+  ],
+  "printer_settings_id": "WEMAKE3D",
+  "printable_area": [ "0x0", "220x0", "220x220", "0x220" ],
+  "nozzle_type": "brass"
+}
