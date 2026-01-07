@@ -1,9 +1,8 @@
 {
-  "name": "0.2mm Standard @WEMAKE3D PhoenixProV1 0.4mm nozzle",
-  "inherits": "fdm_process_phoenixProV1_common",
+  "name": "0.32mm Draft @WEMAKE3D TinyBotV1 0.4mm nozzle",
+  "inherits": "fdm_process_tinyBotV1_common",
   "instantiation": "true",
-
-  "layer_height": "0.2",
+  "layer_height": "0.32",
   "initial_layer_print_height": "0.32",
 
 
@@ -17,11 +16,11 @@
   "support_line_width": "0.5",
   "thick_bridges": "1",
 
-  "print_settings_id": "0.2mm Standard @WEMAKE3D PhoenixProV1 0.4mm nozzle",
+  "print_settings_id": "0.3mm Draft @WEMAKE3D TinyBotV1 0.4mm nozzle",
 
   "version": "2.3.1.10",
   "wall_sequence": "inner-outer-inner wall",
   "compatible_printers": [
-    "WEMAKE3D PhoenixProV1 0.4mm nozzle"
+    "WEMAKE3D TinyBotV1 0.4mm nozzle"
   ]
 }

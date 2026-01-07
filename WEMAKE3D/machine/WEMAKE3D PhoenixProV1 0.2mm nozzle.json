@@ -6,18 +6,18 @@
   "setting_id": "GM001",
   "instantition": "true",
   "printer_model": "WEMAKE3D PhoenixProV1",
-  "gcode_flavor": "marlin",
+
   "nozzle_diameter": [
     "0.2"
   ],
   "printer_variant": "0.2",
   "max_layer_height": [
-    "0.15"
+    "0.16"
   ],
   "min_layer_height": [
-    "0.08"
+    "0.04"
   ],
   "printer_settings_id": "WEMAKE3D",
-  "printable_area": [ "0x0", "300x0", "300x300", "0x300" ],
+  
    "nozzle_type" :  "brass"
 }

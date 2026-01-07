@@ -4,13 +4,14 @@
   "inherits": "fdm_machine_common",
   "from": "system",
   "instantiation": "false",
-  "gcode_flavor": "marlin",
+
   "extruder_colour": [
     "#018001"
   ],
   "extruder_offset": [
     "0x0"
   ],
+  "thumbnails": "",
   "machine_max_acceleration_e": [
     "8000",
     "8000"
@@ -89,6 +90,7 @@
   "extruder_clearance_radius": "65",
   "extruder_clearance_height_to_rod": "36",
   "extruder_clearance_height_to_lid": "140",
+  "printable_area": [ "0x0", "210x0", "210x210", "0x210" ],
   "nozzle_diameter": [
     "0.2",
     "0.3",

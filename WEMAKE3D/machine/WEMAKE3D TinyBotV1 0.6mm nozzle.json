@@ -6,18 +6,18 @@
   "setting_id": "GM001",
   "instantition": "true",
   "printer_model": "WEMAKE3D TinyBotV1",
-  "gcode_flavor": "marlin",
+  
   "nozzle_diameter": [
     "0.6"
   ],
   "printer_variant": "0.6",
   "max_layer_height": [
-    "0.55"
+    "0.48"
   ],
   "min_layer_height": [
     "0.12"
   ],
   "printer_settings_id": "WEMAKE3D",
-  "printable_area": [ "0x0", "220x0", "220x220", "0x220" ],
+  
   "nozzle_type": "brass"
 }
